@@ -2,7 +2,7 @@
 
 ## Minimumal viable product
 
-Connect to API 
+Connect to API <br>
 Collect data 
 Perform EDA 
 Explore inidividual Hypothesis 
