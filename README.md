@@ -1,14 +1,13 @@
 # Project-Hansan
 
-## Minimumal viable product
-
+## Minimumal viable product<br>
 Connect to API <br>
-Collect data 
-Perform EDA 
-Explore inidividual Hypothesis 
+Collect data <br>
+Perform EDA <br>
+Explore inidividual Hypothesis <br>
 
 
-## Productionize deployment 
-Run Api on serveless ec2 
-ETL into RDS database 
-Live Dashboard 
+## Productionize deployment <br>
+Run Api on serveless ec2 <br>
+ETL into RDS database <br>
+Live Dashboard <br>
